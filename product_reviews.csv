@@ -1,0 +1,21 @@
+review_id,user_id,rating,review_text,review_date
+1,U001,5,"Excellent product, will buy again",2024-03-01
+2,U002,4,"Good quality, but the size is smaller than expected",2024-03-02
+3,U003,2,"Bad product, does not work as advertised",2024-03-03
+4,U004,3,"Average product, decent for the price",2024-03-04
+5,U005,5,Love it! Highly recommend,2024-03-05
+6,U006,1,"Terrible, it broke after one use",2024-03-06
+7,U007,4,"Good, but arrived late",2024-03-07
+8,U008,5,Fantastic! Exceeded my expectations,2024-03-08
+9,U009,3,"Okay, not as good as expected",2024-03-09
+10,U010,2,"Really bad, broke within a week",2024-03-10
+11,U001,4,"Pretty good, but could be better",2024-03-11
+12,U002,5,"Great quality, love it",2024-03-12
+13,U003,2,"Bad quality, would not recommend",2024-03-13
+14,U004,5,"Amazing product, works perfectly",2024-03-14
+15,U005,1,Worst purchase ever,2024-03-15
+16,U006,4,"Good, but the color is off",2024-03-16
+17,U007,3,"Decent product, does the job",2024-03-17
+18,U008,5,Excellent! Exactly what I wanted,2024-03-18
+19,U009,4,"Good product, would buy again",2024-03-19
+20,U010,2,"Not great, expected better quality",2024-03-20
